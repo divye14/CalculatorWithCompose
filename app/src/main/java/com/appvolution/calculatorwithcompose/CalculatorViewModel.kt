@@ -10,7 +10,7 @@ class CalculatorViewModel : ViewModel() {
     var state by mutableStateOf(CalculatorState())
         private set
 
-    var operationPerformed = false
+    private var operationPerformed = false
     var lastPressedOperation: CalculatorOperations? = null
 
     fun onAction(action: CalculatorEvents) {
