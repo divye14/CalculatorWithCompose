@@ -22,4 +22,4 @@ This calculator app is built using AndroidStudio / Kotlin
 ## Author:
 Divyang Mehrotra
 
-For inquiries or feedback, please contact divyangmehrotra5@gmail.com.
+For inquiries or feedback, please contact : divyangmehrotra5@gmail.com.
