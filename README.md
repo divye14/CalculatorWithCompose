@@ -19,7 +19,7 @@ This is a basic calculator application built for performing simple arithmetic ca
 ## Acknowledgements:
 This calculator app is built using AndroidStudio / Kotlin
 
-## Author:
-Divyang Mehrotra
+# Author:
+DIVYANG MEHROTRA
 
 For inquiries or feedback, please contact : divyangmehrotra5@gmail.com.
